@@ -1,7 +1,5 @@
 #Todo App README
 -
-![WhatsApp Image 2024-03-07 at 1 03 02 PM](https://github.com/harshivam/Todo-app/assets/113045030/0e82619b-0ca9-4162-a38c-4094112f3f6c)
-
 
 Introduction
 
