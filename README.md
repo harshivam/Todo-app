@@ -5,6 +5,7 @@
 
 
 Introduction
+-
 
 This is a Todo App project developed during my internship, aimed at helping users manage their tasks efficiently. The app incorporates user authentication using Firebase Authentication and stores tasks in a real-time database using Firebase Realtime Database. The user interface is designed to be sleek and intuitive, built entirely with Kotlin for the logic and XML views for the user interface.
 
